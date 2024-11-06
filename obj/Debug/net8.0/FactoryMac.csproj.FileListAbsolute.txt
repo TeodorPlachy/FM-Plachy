@@ -1,0 +1,14 @@
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\bin\Debug\net8.0\FactoryMac.exe
+C:\Users\Teodor\Documents\VS code\Mine\FactoryMac\bin\Debug\net8.0\FactoryMac.deps.json
+C:\Users\Teodor\Documents\VS code\Mine\FactoryMac\bin\Debug\net8.0\FactoryMac.runtimeconfig.json
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\bin\Debug\net8.0\FactoryMac.dll
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\bin\Debug\net8.0\FactoryMac.pdb
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.AssemblyInfoInputs.cache
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.AssemblyInfo.cs
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.csproj.CoreCompileInputs.cache
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.dll
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\refint\FactoryMac.dll
+c:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.pdb
+C:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\FactoryMac.genruntimeconfig.cache
+C:\Users\Teodor\Documents\VS code\Mine\FactoryMac\obj\Debug\net8.0\ref\FactoryMac.dll
